@@ -1,1 +1,2 @@
-priint{"Hello word"}
+print{"Hello word"}
+print{"Hello everybody"}
