@@ -1,4 +1,4 @@
-print{"Hello word"}
-print{"Hello everybody"}
-print{"hello"}
-print{"Hello my ear friend"}
+print{"Hello word;"}
+print{"Hello everybody;"}
+print{"hello;"}
+print{"Hello my ear friend;"}
